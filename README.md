@@ -1,4 +1,4 @@
-# Denoising Diffusion Probabilistic Models (DDPms) and Optimal Transport (OT)
+# Denoising Diffusion Probabilistic Models (DDPMs) and Optimal Transport (OT)
 
 This repository explores the intersection between DDPMs and OT theory.
 
