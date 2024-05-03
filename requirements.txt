@@ -1,3 +1,4 @@
+diffusers
 jax
 numpy
 ott-jax
