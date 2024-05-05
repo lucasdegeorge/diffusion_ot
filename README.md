@@ -10,5 +10,5 @@ The Monge map seeks to minimize transportation costs between probability distrib
 
 ## Example Code
 
-The repository contains code snippets and examples demonstrating the theoretical concepts discussed above. It includes implementations of DDPMs, probability flow ODEs, and optimal transport computations using libraries such as [JAX](https://github.com/google/jax), [OTT JAX](https://github.com/ott-jax/ott), and [PyTorch](https://github.com/pytorch/pytorch).
+The repository contains code snippets and examples demonstrating the theoretical concepts discussed above. It includes implementations of DDPMs and OT computations using libraries such as [JAX](https://github.com/google/jax), [OTT JAX](https://github.com/ott-jax/ott), and [PyTorch](https://github.com/pytorch/pytorch).
 For detailed explanations, please refer to the corresponding sections and files within the repository.
